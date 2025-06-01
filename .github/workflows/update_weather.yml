@@ -1,0 +1,35 @@
+name: Update Weather Data
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # runs every 3 hours
+  workflow_dispatch:       # lets you trigger manually too
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run weather fetch script
+      run: python fetch_live_weather.py
+      env:
+        OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+
+    - name: Commit and push updated data
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add data/weather_live.json
+        git commit -m "🔄 Auto-update weather data"
+        git push
