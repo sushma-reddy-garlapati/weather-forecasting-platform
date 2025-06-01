@@ -20,11 +20,11 @@ jobs:
 
     - name: Install dependencies
       run: pip install requests
-
+      
     - name: Run weather fetch script
-      run: python fetch_live_weather.py
-      env:
-        OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+      run: python ingestion/fetch_live_weather.py data/weather_live.json
+      env: 
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
 
     - name: Commit and push updated data
       run: |
