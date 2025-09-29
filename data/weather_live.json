@@ -1,778 +1,778 @@
 [
   {
     "city": "New York",
-    "temp": 20.5,
-    "humidity": 67,
-    "wind": 6.71,
+    "temp": 23.37,
+    "humidity": 50,
+    "wind": 5.14,
     "pressure": 1023,
-    "timestamp": 1759150180
+    "timestamp": 1759159142
   },
   {
     "city": "Los Angeles",
-    "temp": 17.3,
-    "humidity": 89,
-    "wind": 2.06,
-    "pressure": 1015,
-    "timestamp": 1759149581
+    "temp": 18.81,
+    "humidity": 86,
+    "wind": 4.12,
+    "pressure": 1016,
+    "timestamp": 1759158635
   },
   {
     "city": "Chicago",
-    "temp": 17.9,
-    "humidity": 89,
-    "wind": 0.67,
-    "pressure": 1023,
-    "timestamp": 1759149858
+    "temp": 25.79,
+    "humidity": 66,
+    "wind": 2.06,
+    "pressure": 1024,
+    "timestamp": 1759159096
   },
   {
     "city": "Houston",
-    "temp": 20.13,
-    "humidity": 77,
-    "wind": 3.09,
+    "temp": 27.2,
+    "humidity": 60,
+    "wind": 2.06,
     "pressure": 1017,
-    "timestamp": 1759150068
+    "timestamp": 1759159249
   },
   {
     "city": "Phoenix",
-    "temp": 22.05,
-    "humidity": 67,
-    "wind": 2.06,
-    "pressure": 1013,
-    "timestamp": 1759150280
+    "temp": 24.43,
+    "humidity": 59,
+    "wind": 1.54,
+    "pressure": 1014,
+    "timestamp": 1759159278
   },
   {
     "city": "Philadelphia",
-    "temp": 19.85,
-    "humidity": 80,
-    "wind": 4.12,
+    "temp": 23.52,
+    "humidity": 66,
+    "wind": 4.63,
     "pressure": 1023,
-    "timestamp": 1759149658
+    "timestamp": 1759159200
   },
   {
     "city": "San Antonio",
-    "temp": 19.12,
-    "humidity": 76,
-    "wind": 3.09,
-    "pressure": 1018,
-    "timestamp": 1759150134
+    "temp": 26.22,
+    "humidity": 57,
+    "wind": 1.54,
+    "pressure": 1019,
+    "timestamp": 1759158902
   },
   {
     "city": "San Diego",
-    "temp": 17.72,
-    "humidity": 92,
-    "wind": 0.45,
-    "pressure": 1015,
-    "timestamp": 1759150229
+    "temp": 18.75,
+    "humidity": 89,
+    "wind": 1.54,
+    "pressure": 1016,
+    "timestamp": 1759158879
   },
   {
     "city": "Dallas",
-    "temp": 18.53,
-    "humidity": 84,
-    "wind": 0,
-    "pressure": 1019,
-    "timestamp": 1759150103
+    "temp": 25.61,
+    "humidity": 64,
+    "wind": 2.06,
+    "pressure": 1020,
+    "timestamp": 1759158999
   },
   {
     "city": "San Jose",
-    "temp": 19.17,
-    "humidity": 76,
+    "temp": 18.97,
+    "humidity": 77,
     "wind": 3.6,
     "pressure": 1014,
-    "timestamp": 1759150246
+    "timestamp": 1759158750
   },
   {
     "city": "Austin",
-    "temp": 19.03,
-    "humidity": 73,
-    "wind": 0,
-    "pressure": 1018,
-    "timestamp": 1759150075
+    "temp": 26.24,
+    "humidity": 60,
+    "wind": 2.06,
+    "pressure": 1019,
+    "timestamp": 1759158640
   },
   {
     "city": "Jacksonville",
-    "temp": 23.95,
-    "humidity": 96,
-    "wind": 5.66,
+    "temp": 25.42,
+    "humidity": 89,
+    "wind": 7.72,
     "pressure": 1014,
-    "timestamp": 1759150108
+    "timestamp": 1759159312
   },
   {
     "city": "Fort Worth",
-    "temp": 18.46,
-    "humidity": 74,
-    "wind": 2.06,
-    "pressure": 1019,
-    "timestamp": 1759150014
+    "temp": 25.06,
+    "humidity": 58,
+    "wind": 0.45,
+    "pressure": 1020,
+    "timestamp": 1759158813
   },
   {
     "city": "Columbus",
-    "temp": 17.35,
-    "humidity": 93,
-    "wind": 0,
+    "temp": 24.83,
+    "humidity": 66,
+    "wind": 2.06,
     "pressure": 1023,
-    "timestamp": 1759149937
+    "timestamp": 1759158900
   },
   {
     "city": "Charlotte",
-    "temp": 19.55,
-    "humidity": 92,
-    "wind": 3.99,
-    "pressure": 1020,
-    "timestamp": 1759150254
+    "temp": 18.94,
+    "humidity": 95,
+    "wind": 5.14,
+    "pressure": 1021,
+    "timestamp": 1759158733
   },
   {
     "city": "San Francisco",
-    "temp": 16.63,
+    "temp": 16.86,
     "humidity": 85,
-    "wind": 3.09,
+    "wind": 3.6,
     "pressure": 1014,
-    "timestamp": 1759150216
+    "timestamp": 1759158669
   },
   {
     "city": "Indianapolis",
-    "temp": 16.6,
-    "humidity": 82,
+    "temp": 25.34,
+    "humidity": 59,
     "wind": 0,
-    "pressure": 1022,
-    "timestamp": 1759150255
+    "pressure": 1023,
+    "timestamp": 1759159184
   },
   {
     "city": "Seattle",
-    "temp": 16.06,
-    "humidity": 82,
-    "wind": 2.57,
+    "temp": 15.54,
+    "humidity": 86,
+    "wind": 3.6,
     "pressure": 1007,
-    "timestamp": 1759149975
+    "timestamp": 1759159103
   },
   {
     "city": "Denver",
-    "temp": 13.13,
-    "humidity": 65,
-    "wind": 1.49,
-    "pressure": 1018,
-    "timestamp": 1759150298
+    "temp": 17.34,
+    "humidity": 57,
+    "wind": 1.79,
+    "pressure": 1019,
+    "timestamp": 1759158911
   },
   {
     "city": "Washington",
-    "temp": 13.85,
-    "humidity": 63,
-    "wind": 1.62,
+    "temp": 14.81,
+    "humidity": 69,
+    "wind": 1.25,
     "pressure": 1007,
-    "timestamp": 1759150088
+    "timestamp": 1759159262
   },
   {
     "city": "Boston",
-    "temp": 18.14,
-    "humidity": 65,
-    "wind": 4.63,
+    "temp": 24.54,
+    "humidity": 40,
+    "wind": 1.54,
     "pressure": 1023,
-    "timestamp": 1759149822
+    "timestamp": 1759159215
   },
   {
     "city": "El Paso",
-    "temp": 16.11,
-    "humidity": 88,
-    "wind": 2.57,
-    "pressure": 1017,
-    "timestamp": 1759150269
+    "temp": 18.04,
+    "humidity": 81,
+    "wind": 2.06,
+    "pressure": 1016,
+    "timestamp": 1759158912
   },
   {
     "city": "Nashville",
-    "temp": 16.66,
-    "humidity": 89,
-    "wind": 0,
-    "pressure": 1021,
-    "timestamp": 1759149520
+    "temp": 24.41,
+    "humidity": 65,
+    "wind": 1.54,
+    "pressure": 1022,
+    "timestamp": 1759159249
   },
   {
     "city": "Detroit",
-    "temp": 13.08,
-    "humidity": 88,
-    "wind": 0,
+    "temp": 22.59,
+    "humidity": 62,
+    "wind": 0.45,
     "pressure": 1024,
-    "timestamp": 1759150032
+    "timestamp": 1759159275
   },
   {
     "city": "Oklahoma City",
-    "temp": 16.07,
-    "humidity": 86,
-    "wind": 2.06,
+    "temp": 24.19,
+    "humidity": 61,
+    "wind": 3.09,
     "pressure": 1020,
-    "timestamp": 1759150146
+    "timestamp": 1759158836
   },
   {
     "city": "Portland",
-    "temp": 15.68,
-    "humidity": 81,
-    "wind": 0.45,
+    "temp": 15.21,
+    "humidity": 86,
+    "wind": 0,
     "pressure": 1008,
-    "timestamp": 1759150232
+    "timestamp": 1759158752
   },
   {
     "city": "Las Vegas",
-    "temp": 19.86,
-    "humidity": 68,
-    "wind": 1.54,
-    "pressure": 1014,
-    "timestamp": 1759150308
+    "temp": 21.23,
+    "humidity": 60,
+    "wind": 2.06,
+    "pressure": 1016,
+    "timestamp": 1759158750
   },
   {
     "city": "Memphis",
-    "temp": 17.56,
-    "humidity": 83,
+    "temp": 25.43,
+    "humidity": 56,
     "wind": 1.54,
     "pressure": 1020,
-    "timestamp": 1759150214
+    "timestamp": 1759158717
   },
   {
     "city": "Louisville",
-    "temp": 17.51,
-    "humidity": 95,
-    "wind": 0,
+    "temp": 26.14,
+    "humidity": 64,
+    "wind": 0.89,
     "pressure": 1022,
-    "timestamp": 1759150201
+    "timestamp": 1759158900
   },
   {
     "city": "Baltimore",
-    "temp": 19.87,
-    "humidity": 85,
-    "wind": 1.34,
+    "temp": 23.54,
+    "humidity": 69,
+    "wind": 4.63,
     "pressure": 1023,
-    "timestamp": 1759150211
+    "timestamp": 1759158840
   },
   {
     "city": "Milwaukee",
-    "temp": 14.3,
-    "humidity": 88,
-    "wind": 0.45,
+    "temp": 23.06,
+    "humidity": 64,
+    "wind": 1.34,
     "pressure": 1024,
-    "timestamp": 1759150234
+    "timestamp": 1759159248
   },
   {
     "city": "Albuquerque",
-    "temp": 12.6,
-    "humidity": 91,
-    "wind": 1.54,
-    "pressure": 1020,
-    "timestamp": 1759150200
+    "temp": 15.57,
+    "humidity": 79,
+    "wind": 2.24,
+    "pressure": 1022,
+    "timestamp": 1759158900
   },
   {
     "city": "Tucson",
-    "temp": 19,
-    "humidity": 62,
-    "wind": 4.12,
-    "pressure": 1015,
-    "timestamp": 1759150216
+    "temp": 22.96,
+    "humidity": 56,
+    "wind": 0.89,
+    "pressure": 1016,
+    "timestamp": 1759159282
   },
   {
     "city": "Fresno",
-    "temp": 17.91,
-    "humidity": 81,
+    "temp": 18.7,
+    "humidity": 72,
     "wind": 4.12,
-    "pressure": 1014,
-    "timestamp": 1759150241
+    "pressure": 1015,
+    "timestamp": 1759159247
   },
   {
     "city": "Mesa",
-    "temp": 21.63,
-    "humidity": 64,
-    "wind": 3.6,
-    "pressure": 1013,
-    "timestamp": 1759150285
+    "temp": 23.99,
+    "humidity": 59,
+    "wind": 2.24,
+    "pressure": 1014,
+    "timestamp": 1759159477
   },
   {
     "city": "Sacramento",
-    "temp": 18.66,
-    "humidity": 78,
-    "wind": 2.06,
+    "temp": 18.56,
+    "humidity": 81,
+    "wind": 2.57,
     "pressure": 1014,
-    "timestamp": 1759150320
+    "timestamp": 1759159372
   },
   {
     "city": "Atlanta",
-    "temp": 19.6,
-    "humidity": 81,
-    "wind": 0,
+    "temp": 22.9,
+    "humidity": 67,
+    "wind": 7.2,
     "pressure": 1019,
-    "timestamp": 1759150235
+    "timestamp": 1759158857
   },
   {
     "city": "Kansas City",
-    "temp": 17.57,
-    "humidity": 88,
-    "wind": 1.8,
-    "pressure": 1021,
-    "timestamp": 1759149808
+    "temp": 23.71,
+    "humidity": 66,
+    "wind": 1.54,
+    "pressure": 1022,
+    "timestamp": 1759158763
   },
   {
     "city": "Colorado Springs",
-    "temp": 12.91,
-    "humidity": 64,
-    "wind": 5.14,
-    "pressure": 1020,
-    "timestamp": 1759150293
+    "temp": 17.59,
+    "humidity": 56,
+    "wind": 4.12,
+    "pressure": 1021,
+    "timestamp": 1759159401
   },
   {
     "city": "Miami",
-    "temp": 25.76,
-    "humidity": 86,
+    "temp": 28.86,
+    "humidity": 81,
     "wind": 5.14,
-    "pressure": 1009,
-    "timestamp": 1759150054
+    "pressure": 1010,
+    "timestamp": 1759159068
   },
   {
     "city": "Raleigh",
-    "temp": 19.28,
+    "temp": 19.98,
     "humidity": 97,
-    "wind": 2.57,
-    "pressure": 1020,
-    "timestamp": 1759150112
+    "wind": 3.6,
+    "pressure": 1021,
+    "timestamp": 1759159286
   },
   {
     "city": "Omaha",
-    "temp": 16.3,
-    "humidity": 84,
+    "temp": 22.45,
+    "humidity": 73,
     "wind": 3.6,
-    "pressure": 1020,
-    "timestamp": 1759150294
+    "pressure": 1021,
+    "timestamp": 1759159241
   },
   {
     "city": "Long Beach",
-    "temp": 17.94,
-    "humidity": 91,
-    "wind": 0,
-    "pressure": 1015,
-    "timestamp": 1759150329
+    "temp": 19.36,
+    "humidity": 90,
+    "wind": 2.06,
+    "pressure": 1016,
+    "timestamp": 1759159415
   },
   {
     "city": "Virginia Beach",
-    "temp": 21.97,
-    "humidity": 89,
-    "wind": 4.12,
+    "temp": 23.01,
+    "humidity": 90,
+    "wind": 3.09,
     "pressure": 1021,
-    "timestamp": 1759150074
+    "timestamp": 1759159460
   },
   {
     "city": "Oakland",
-    "temp": 14.03,
-    "humidity": 70,
-    "wind": 0.14,
+    "temp": 23.06,
+    "humidity": 42,
+    "wind": 0,
     "pressure": 1024,
-    "timestamp": 1759150332
+    "timestamp": 1759159489
   },
   {
     "city": "Minneapolis",
-    "temp": 13.68,
-    "humidity": 83,
-    "wind": 3.09,
-    "pressure": 1020,
-    "timestamp": 1759149651
+    "temp": 20.81,
+    "humidity": 72,
+    "wind": 2.06,
+    "pressure": 1021,
+    "timestamp": 1759159370
   },
   {
     "city": "Tulsa",
-    "temp": 15.98,
-    "humidity": 93,
-    "wind": 0,
+    "temp": 24.1,
+    "humidity": 68,
+    "wind": 0.45,
     "pressure": 1021,
-    "timestamp": 1759149710
+    "timestamp": 1759159420
   },
   {
     "city": "Tampa",
-    "temp": 23.8,
-    "humidity": 96,
+    "temp": 28.61,
+    "humidity": 78,
     "wind": 2.57,
     "pressure": 1012,
-    "timestamp": 1759149928
+    "timestamp": 1759159383
   },
   {
     "city": "New Orleans",
-    "temp": 24.22,
-    "humidity": 74,
-    "wind": 5.14,
-    "pressure": 1015,
-    "timestamp": 1759149842
+    "temp": 28.74,
+    "humidity": 67,
+    "wind": 4.63,
+    "pressure": 1016,
+    "timestamp": 1759159325
   },
   {
     "city": "Wichita",
-    "temp": 16.41,
-    "humidity": 95,
-    "wind": 2.06,
-    "pressure": 1020,
-    "timestamp": 1759149643
+    "temp": 23.04,
+    "humidity": 65,
+    "wind": 3.6,
+    "pressure": 1021,
+    "timestamp": 1759159390
   },
   {
     "city": "Arlington",
-    "temp": 17.77,
-    "humidity": 78,
-    "wind": 0,
-    "pressure": 1019,
-    "timestamp": 1759150239
+    "temp": 25.98,
+    "humidity": 56,
+    "wind": 1.54,
+    "pressure": 1020,
+    "timestamp": 1759159496
   },
   {
     "city": "Bakersfield",
-    "temp": 19.04,
+    "temp": 18.96,
     "humidity": 77,
-    "wind": 3.09,
-    "pressure": 1014,
-    "timestamp": 1759149658
+    "wind": 2.57,
+    "pressure": 1015,
+    "timestamp": 1759159267
   },
   {
     "city": "Aurora",
-    "temp": 11.71,
-    "humidity": 69,
-    "wind": 1.54,
-    "pressure": 1018,
-    "timestamp": 1759149666
+    "temp": 17.52,
+    "humidity": 54,
+    "wind": 1.34,
+    "pressure": 1020,
+    "timestamp": 1759159398
   },
   {
     "city": "Cleveland",
-    "temp": 14.49,
-    "humidity": 86,
-    "wind": 2.57,
+    "temp": 23.9,
+    "humidity": 48,
+    "wind": 1.54,
     "pressure": 1024,
-    "timestamp": 1759149871
+    "timestamp": 1759159246
   },
   {
     "city": "Anaheim",
-    "temp": 17.4,
-    "humidity": 85,
-    "wind": 0,
-    "pressure": 1015,
-    "timestamp": 1759149667
+    "temp": 18.96,
+    "humidity": 86,
+    "wind": 3.13,
+    "pressure": 1016,
+    "timestamp": 1759159262
   },
   {
     "city": "Honolulu",
-    "temp": 25.24,
-    "humidity": 81,
-    "wind": 5.66,
+    "temp": 24.31,
+    "humidity": 87,
+    "wind": 3.09,
     "pressure": 1017,
-    "timestamp": 1759149914
+    "timestamp": 1759159491
   },
   {
     "city": "Lexington",
-    "temp": 16.74,
-    "humidity": 88,
-    "wind": 2.96,
-    "pressure": 1023,
-    "timestamp": 1759150052
+    "temp": 25.74,
+    "humidity": 55,
+    "wind": 4.63,
+    "pressure": 1022,
+    "timestamp": 1759159326
   },
   {
     "city": "Stockton",
-    "temp": 18.3,
-    "humidity": 85,
+    "temp": 18.64,
+    "humidity": 83,
     "wind": 2.06,
-    "pressure": 1014,
-    "timestamp": 1759149671
+    "pressure": 1015,
+    "timestamp": 1759159505
   },
   {
     "city": "Corpus Christi",
-    "temp": 23.27,
-    "humidity": 85,
-    "wind": 5.14,
+    "temp": 27.22,
+    "humidity": 68,
+    "wind": 6.69,
     "pressure": 1016,
-    "timestamp": 1759149725
+    "timestamp": 1759159399
   },
   {
     "city": "Henderson",
-    "temp": 20.29,
-    "humidity": 66,
-    "wind": 2.57,
-    "pressure": 1015,
-    "timestamp": 1759149786
+    "temp": 21.38,
+    "humidity": 65,
+    "wind": 1.54,
+    "pressure": 1017,
+    "timestamp": 1759159356
   },
   {
     "city": "Riverside",
-    "temp": 19.93,
-    "humidity": 60,
-    "wind": 0.6,
+    "temp": 21.76,
+    "humidity": 56,
+    "wind": 0.17,
     "pressure": 1013,
-    "timestamp": 1759149931
+    "timestamp": 1759159323
   },
   {
     "city": "Santa Ana",
-    "temp": 17.44,
-    "humidity": 87,
-    "wind": 0,
-    "pressure": 1015,
-    "timestamp": 1759149930
+    "temp": 19.08,
+    "humidity": 86,
+    "wind": 3.13,
+    "pressure": 1016,
+    "timestamp": 1759159318
   },
   {
     "city": "St. Louis",
-    "temp": 18.51,
-    "humidity": 77,
-    "wind": 0.79,
-    "pressure": 1022,
-    "timestamp": 1759149901
+    "temp": 26.32,
+    "humidity": 57,
+    "wind": 0.89,
+    "pressure": 1023,
+    "timestamp": 1759159487
   },
   {
     "city": "Pittsburgh",
-    "temp": 15.98,
-    "humidity": 91,
+    "temp": 20.94,
+    "humidity": 83,
     "wind": 0,
     "pressure": 1024,
-    "timestamp": 1759149835
+    "timestamp": 1759159435
   },
   {
     "city": "Cincinnati",
-    "temp": 17.58,
-    "humidity": 91,
-    "wind": 1.05,
+    "temp": 25.53,
+    "humidity": 62,
+    "wind": 0.89,
     "pressure": 1023,
-    "timestamp": 1759149717
+    "timestamp": 1759159268
   },
   {
     "city": "Anchorage",
-    "temp": 4.54,
-    "humidity": 87,
-    "wind": 2.57,
+    "temp": 3.95,
+    "humidity": 80,
+    "wind": 2.06,
     "pressure": 1002,
-    "timestamp": 1759149762
+    "timestamp": 1759159463
   },
   {
     "city": "Greensboro",
-    "temp": 18.94,
-    "humidity": 94,
-    "wind": 2.57,
-    "pressure": 1021,
-    "timestamp": 1759149870
+    "temp": 19.23,
+    "humidity": 93,
+    "wind": 5.66,
+    "pressure": 1022,
+    "timestamp": 1759158937
   },
   {
     "city": "Plano",
-    "temp": 17.76,
-    "humidity": 85,
+    "temp": 25.8,
+    "humidity": 61,
     "wind": 3.58,
-    "pressure": 1019,
-    "timestamp": 1759149918
+    "pressure": 1020,
+    "timestamp": 1759159264
   },
   {
     "city": "Newark",
-    "temp": 19.56,
-    "humidity": 70,
-    "wind": 6.17,
+    "temp": 23.32,
+    "humidity": 51,
+    "wind": 5.14,
     "pressure": 1023,
-    "timestamp": 1759149780
+    "timestamp": 1759159421
   },
   {
     "city": "Lincoln",
-    "temp": 17.58,
-    "humidity": 85,
-    "wind": 2.24,
-    "pressure": 1019,
-    "timestamp": 1759149937
+    "temp": 24.42,
+    "humidity": 67,
+    "wind": 4.47,
+    "pressure": 1020,
+    "timestamp": 1759159472
   },
   {
     "city": "Orlando",
-    "temp": 24.66,
-    "humidity": 96,
-    "wind": 2.57,
+    "temp": 28.6,
+    "humidity": 81,
+    "wind": 5.66,
     "pressure": 1012,
-    "timestamp": 1759149913
+    "timestamp": 1759159392
   },
   {
     "city": "Irvine",
-    "temp": 17.48,
-    "humidity": 89,
-    "wind": 0.68,
-    "pressure": 1015,
-    "timestamp": 1759149944
+    "temp": 19.09,
+    "humidity": 88,
+    "wind": 1.34,
+    "pressure": 1016,
+    "timestamp": 1759159452
   },
   {
     "city": "Toledo",
-    "temp": 21.71,
-    "humidity": 46,
-    "wind": 2.03,
-    "pressure": 1016,
-    "timestamp": 1759149858
+    "temp": 22.73,
+    "humidity": 44,
+    "wind": 6.2,
+    "pressure": 1015,
+    "timestamp": 1759159330
   },
   {
     "city": "Durham",
-    "temp": 19.54,
-    "humidity": 90,
-    "wind": 2.57,
-    "pressure": 1021,
-    "timestamp": 1759149942
+    "temp": 20.03,
+    "humidity": 96,
+    "wind": 3.6,
+    "pressure": 1022,
+    "timestamp": 1759159226
   },
   {
     "city": "Chula Vista",
-    "temp": 17.7,
-    "humidity": 91,
-    "wind": 0,
+    "temp": 19.28,
+    "humidity": 86,
+    "wind": 1.54,
     "pressure": 1015,
-    "timestamp": 1759149916
+    "timestamp": 1759159366
   },
   {
     "city": "Fort Wayne",
-    "temp": 16.57,
-    "humidity": 95,
-    "wind": 1.64,
-    "pressure": 1023,
-    "timestamp": 1759149939
+    "temp": 24.25,
+    "humidity": 64,
+    "wind": 1.54,
+    "pressure": 1024,
+    "timestamp": 1759159268
   },
   {
     "city": "Jersey City",
-    "temp": 20.06,
-    "humidity": 68,
-    "wind": 7.15,
+    "temp": 23.34,
+    "humidity": 50,
+    "wind": 5.14,
     "pressure": 1023,
-    "timestamp": 1759149938
+    "timestamp": 1759159440
   },
   {
     "city": "St. Petersburg",
-    "temp": 10.03,
-    "humidity": 65,
-    "wind": 4,
-    "pressure": 1038,
-    "timestamp": 1759150363
+    "temp": 9.47,
+    "humidity": 66,
+    "wind": 3,
+    "pressure": 1036,
+    "timestamp": 1759159470
   },
   {
     "city": "Laredo",
-    "temp": 21.16,
-    "humidity": 83,
-    "wind": 2.06,
-    "pressure": 1017,
-    "timestamp": 1759149827
+    "temp": 26.16,
+    "humidity": 65,
+    "wind": 0,
+    "pressure": 1018,
+    "timestamp": 1759159531
   },
   {
     "city": "Madison",
-    "temp": 18.76,
-    "humidity": 93,
-    "wind": 0.45,
+    "temp": 25.56,
+    "humidity": 67,
+    "wind": 2.57,
     "pressure": 1020,
-    "timestamp": 1759149769
+    "timestamp": 1759159532
   },
   {
     "city": "Chandler",
-    "temp": 21.54,
-    "humidity": 64,
-    "wind": 2.06,
-    "pressure": 1013,
-    "timestamp": 1759149918
+    "temp": 23.98,
+    "humidity": 59,
+    "wind": 2.68,
+    "pressure": 1015,
+    "timestamp": 1759159533
   },
   {
     "city": "Buffalo",
-    "temp": 14.45,
-    "humidity": 60,
-    "wind": 1.54,
-    "pressure": 1024,
-    "timestamp": 1759149849
+    "temp": 22.51,
+    "humidity": 49,
+    "wind": 3.09,
+    "pressure": 1025,
+    "timestamp": 1759159528
   },
   {
     "city": "Lubbock",
-    "temp": 18.14,
-    "humidity": 63,
-    "wind": 2.06,
-    "pressure": 1020,
-    "timestamp": 1759149837
+    "temp": 22.14,
+    "humidity": 53,
+    "wind": 4.63,
+    "pressure": 1022,
+    "timestamp": 1759159142
   },
   {
     "city": "Scottsdale",
-    "temp": 21.36,
-    "humidity": 69,
-    "wind": 3.6,
-    "pressure": 1013,
-    "timestamp": 1759149670
+    "temp": 24.06,
+    "humidity": 60,
+    "wind": 1.54,
+    "pressure": 1015,
+    "timestamp": 1759159290
   },
   {
     "city": "Reno",
-    "temp": 14.07,
+    "temp": 14.94,
     "humidity": 66,
-    "wind": 1.54,
-    "pressure": 1014,
-    "timestamp": 1759149763
+    "wind": 5.14,
+    "pressure": 1015,
+    "timestamp": 1759159284
   },
   {
     "city": "Glendale",
-    "temp": 22.11,
-    "humidity": 63,
+    "temp": 24.25,
+    "humidity": 57,
     "wind": 3.09,
-    "pressure": 1013,
-    "timestamp": 1759149945
+    "pressure": 1015,
+    "timestamp": 1759159539
   },
   {
     "city": "Gilbert",
-    "temp": 21.49,
-    "humidity": 65,
-    "wind": 3.6,
-    "pressure": 1013,
-    "timestamp": 1759149902
+    "temp": 23.95,
+    "humidity": 60,
+    "wind": 2.57,
+    "pressure": 1015,
+    "timestamp": 1759159315
   },
   {
     "city": "North Las Vegas",
-    "temp": 20.18,
-    "humidity": 68,
-    "wind": 1.54,
-    "pressure": 1015,
-    "timestamp": 1759149949
+    "temp": 21.8,
+    "humidity": 59,
+    "wind": 2.06,
+    "pressure": 1017,
+    "timestamp": 1759159543
   },
   {
     "city": "Norfolk",
-    "temp": 17.58,
-    "humidity": 63,
-    "wind": 1.32,
+    "temp": 23.15,
+    "humidity": 49,
+    "wind": 0,
     "pressure": 1023,
-    "timestamp": 1759149901
+    "timestamp": 1759159474
   },
   {
     "city": "Chesapeake",
-    "temp": 21.9,
-    "humidity": 86,
-    "wind": 4.63,
+    "temp": 23.11,
+    "humidity": 82,
+    "wind": 5.14,
     "pressure": 1021,
-    "timestamp": 1759149947
+    "timestamp": 1759159513
   },
   {
     "city": "Garland",
-    "temp": 17.81,
-    "humidity": 85,
+    "temp": 25.75,
+    "humidity": 63,
     "wind": 3.58,
-    "pressure": 1019,
-    "timestamp": 1759149904
+    "pressure": 1020,
+    "timestamp": 1759159367
   },
   {
     "city": "Irving",
-    "temp": 19.09,
-    "humidity": 77,
-    "wind": 0,
-    "pressure": 1019,
-    "timestamp": 1759149948
+    "temp": 25.94,
+    "humidity": 58,
+    "wind": 2.06,
+    "pressure": 1020,
+    "timestamp": 1759159548
   },
   {
     "city": "Hialeah",
-    "temp": 25.24,
-    "humidity": 84,
-    "wind": 5.14,
+    "temp": 28.25,
+    "humidity": 82,
+    "wind": 5.66,
     "pressure": 1010,
-    "timestamp": 1759149697
+    "timestamp": 1759159389
   },
   {
     "city": "Fremont",
-    "temp": 18.32,
-    "humidity": 84,
-    "wind": 2.57,
+    "temp": 18.65,
+    "humidity": 83,
+    "wind": 0.89,
     "pressure": 1014,
-    "timestamp": 1759149782
+    "timestamp": 1759159550
   },
   {
     "city": "Boise",
-    "temp": 17.81,
-    "humidity": 51,
-    "wind": 3.6,
-    "pressure": 1010,
-    "timestamp": 1759150200
+    "temp": 19.78,
+    "humidity": 49,
+    "wind": 4.63,
+    "pressure": 1012,
+    "timestamp": 1759159468
   },
   {
     "city": "Richmond",
-    "temp": 18.56,
-    "humidity": 89,
-    "wind": 1.54,
+    "temp": 22.29,
+    "humidity": 79,
+    "wind": 2.57,
     "pressure": 1022,
-    "timestamp": 1759149934
+    "timestamp": 1759159321
   },
   {
     "city": "Baton Rouge",
-    "temp": 21.4,
-    "humidity": 80,
-    "wind": 0.45,
+    "temp": 27.94,
+    "humidity": 62,
+    "wind": 2.57,
     "pressure": 1016,
-    "timestamp": 1759149893
+    "timestamp": 1759159507
   }
 ]
